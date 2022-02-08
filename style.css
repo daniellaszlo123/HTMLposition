@@ -9,3 +9,18 @@ nav>ul{
     display: grid;
     grid-template-columns:1fr 1fr 1fr;
 }
+
+.warningbox{
+
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        width: 400px;
+        height: 300px;
+        margin-top: -150px;
+        margin-left: -200px;
+    
+}
+.radiogombok{
+    border:1px solid black;
+}
