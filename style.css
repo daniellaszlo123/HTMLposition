@@ -1,0 +1,21 @@
+main{
+    width: 650px;
+    position: fixed;
+    right: 25%;
+}
+
+img{
+    width: 200px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.kep1{
+    display: block;
+    width: 100%;
+    opacity: 0;
+}
+
+.kep1_mutat:hover{
+    
+}
