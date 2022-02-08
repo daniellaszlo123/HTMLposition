@@ -1,3 +1,4 @@
+
 main{
     width: 650px;
     position: fixed;
@@ -16,6 +17,14 @@ img{
     opacity: 0;
 }
 
-.kep1_mutat:hover{
-    
+nav{
+    border: 1px solid white;
+}
+.topnav {
+    overflow: hidden;
+}
+
+nav>ul{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr;
 }
